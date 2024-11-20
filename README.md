@@ -1,2 +1,3 @@
-# Demo practice is new repogitory for practice git
+# Demo practice is a repogitory for practice git
 
+### This is new description for demo practice
